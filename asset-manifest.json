@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/poke-game/static/css/main.40938944.css",
+    "main.js": "/poke-game/static/js/main.6e330449.js",
+    "static/js/787.1aecab9c.chunk.js": "/poke-game/static/js/787.1aecab9c.chunk.js",
+    "index.html": "/poke-game/index.html",
+    "main.40938944.css.map": "/poke-game/static/css/main.40938944.css.map",
+    "main.6e330449.js.map": "/poke-game/static/js/main.6e330449.js.map",
+    "787.1aecab9c.chunk.js.map": "/poke-game/static/js/787.1aecab9c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40938944.css",
+    "static/js/main.6e330449.js"
+  ]
+}
